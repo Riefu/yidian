@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yidian.iml" filepath="$PROJECT_DIR$/yidian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yidian-common/yidian-common.iml" filepath="$PROJECT_DIR$/yidian-common/yidian-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yidian-dao/yidian-dao.iml" filepath="$PROJECT_DIR$/yidian-dao/yidian-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yidian-interface/yidian-interface.iml" filepath="$PROJECT_DIR$/yidian-interface/yidian-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yidian-pojo/yidian-pojo.iml" filepath="$PROJECT_DIR$/yidian-pojo/yidian-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yidian-service-product/yidian-service-product.iml" filepath="$PROJECT_DIR$/yidian-service-product/yidian-service-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yidian-webtest/yidian-webtest.iml" filepath="$PROJECT_DIR$/yidian-webtest/yidian-webtest.iml" />
+    </modules>
+  </component>
+</project>

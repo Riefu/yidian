@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="yidian-service-product:war">
+    <output-path>$PROJECT_DIR$/yidian-service-product/target</output-path>
+    <root id="archive" name="yidian-service-product.war">
+      <element id="artifact" artifact-name="yidian-service-product:war exploded" />
+    </root>
+  </artifact>
+</component>
